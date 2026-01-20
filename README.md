@@ -31,7 +31,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/npmhimanshu/your-repo.git
-cd your-repo
+cd tailwindcss-demo
 
 
 
