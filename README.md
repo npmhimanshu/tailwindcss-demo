@@ -1,8 +1,7 @@
 # Tailwindcss-demo
 # Tailwind CSS Project
 
-A modern, responsive UI built using **Tailwind CSS** with utility-first styling for rapid development and easy customization.
-
+A modern, responsive UI built using **Tailwind CSS** with utility-first styling for rapid development and easy customization
 ---
 
 ## 🚀 Tech Stack
